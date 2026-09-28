@@ -25,19 +25,23 @@ txtyear.Clear();
 
 ![Explict convertion](<Explict convertion.jpeg>)
 
+# Clear Explict convertion  Project
 
-1. //explicit conversion-type casting-using parse method: This is a comment explaining that the code is performing an explicit conversion (also known as type casting) using the Parse method.
-2. numericofthmonth = int.Parse(txtnumericofthmonth.Text);:
+## Description
+ explicit conversion-type casting-using parse method: This is a comment explaining that the code is performing an explicit conversion (also known as type casting) using the Parse method.
+ numericofthmonth = int.Parse(txtnumericofthmonth.Text);:
 	• txtnumericofthmonth.Text reads the text from the textbox where the user typed the month number.
 	• int.Parse(...) takes that text and converts it into an integer (whole number). For example, if the user types "10", int.Parse turns it into the number 10 so it can be used for math.
 	• The result is stored in the variable numericofthmonth.
-3. year = int.Parse(txtyear.Text);:
+   year = int.Parse(txtyear.Text);:
 	• This does the same thing for the year. It reads the text from txtyear, converts it to an integer using int.Parse, and stores it in the variable year.
 
 
 
-![Creating variable](<Creating variable.jpeg>)
+![Creating variable](<Creating variable.jpeg>) 
+  
 
+  
 1. //creating variables to store using input: This is a comment explaining the purpose of the code below it.
 2. string firstname, secondname, thirdname, fullname;: This declares four string variables to hold text. Note that fullname is declared but never used in the visible code.
 3. firstname = txtfname.Text;: It reads the text from the textbox named txtfname and stores it in the firstname variable.
