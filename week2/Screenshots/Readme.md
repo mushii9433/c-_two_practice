@@ -40,13 +40,19 @@ txtyear.Clear();
 
 ![Creating variable](<Creating variable.jpeg>) 
   
+# Clear  Creating variableProject
 
-  
-1. //creating variables to store using input: This is a comment explaining the purpose of the code below it.
-2. string firstname, secondname, thirdname, fullname;: This declares four string variables to hold text. Note that fullname is declared but never used in the visible code.
-3. firstname = txtfname.Text;: It reads the text from the textbox named txtfname and stores it in the firstname variable.
-4. secondname = txtsname.Text;: It reads the text from the textbox named txtsname and stores it in the secondname variable.
-5. thirdname = txtthirdname.Text;: It reads the text from the textbox named txtthirdname and stores it in the thirdname variable.
+## Description
+
+creating variables to store using input: This is a comment explaining the purpose of the code below it.
+
+string firstname, secondname, thirdname, fullname;: This declares four string variables to hold text. Note that fullname is declared but never used in the visible code.
+
+ firstname = txtfname.Text;: It reads the text from the textbox named txtfname and stores it in the firstname variable.
+
+secondname = txtsname.Text;: It reads the text from the textbox named txtsname and stores it in the secondname variable.
+
+ thirdname = txtthirdname.Text;: It reads the text from the textbox named txtthirdname and stores it in the thirdname variable.
 
 
 
