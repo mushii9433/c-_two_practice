@@ -1,5 +1,7 @@
-![Clearing textbox](<Clearing textbox.jpeg>)
+![Clrearing textbox](<Clearing textbox.jpeg>)
 
+
+# Clear TextBox Project
 
 ## Description
 This project demonstrates how to clear multiple TextBox controls in a C# Windows Forms application.
@@ -20,7 +22,7 @@ txtnameofthemonth.Clear();
 txtnumericof themonth.Clear();
 txtyear.Clear();
 
-![Creating variable](<Creating variable.jpeg>)
+
 
 
 
