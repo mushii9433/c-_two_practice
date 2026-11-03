@@ -1,0 +1,11 @@
+D:\c#\Reasearch_other_file_methods\Reasearch_other_file_methods\bin\Debug\Reasearch_other_file_methods.exe.config
+D:\c#\Reasearch_other_file_methods\Reasearch_other_file_methods\bin\Debug\Reasearch_other_file_methods.exe
+D:\c#\Reasearch_other_file_methods\Reasearch_other_file_methods\bin\Debug\Reasearch_other_file_methods.pdb
+D:\c#\Reasearch_other_file_methods\Reasearch_other_file_methods\obj\Debug\Reasearch_other_file_methods.csproj.AssemblyReference.cache
+D:\c#\Reasearch_other_file_methods\Reasearch_other_file_methods\obj\Debug\Reasearch_other_file_methods.Form1.resources
+D:\c#\Reasearch_other_file_methods\Reasearch_other_file_methods\obj\Debug\Reasearch_other_file_methods.Properties.Resources.resources
+D:\c#\Reasearch_other_file_methods\Reasearch_other_file_methods\obj\Debug\Reasearch_other_file_methods.csproj.GenerateResource.cache
+D:\c#\Reasearch_other_file_methods\Reasearch_other_file_methods\obj\Debug\Reasearch_other_file_methods.csproj.CoreCompileInputs.cache
+D:\c#\Reasearch_other_file_methods\Reasearch_other_file_methods\obj\Debug\Reasearch_other_file_methods.exe
+D:\c#\Reasearch_other_file_methods\Reasearch_other_file_methods\obj\Debug\Reasearch_other_file_methods.pdb
+D:\c#\Reasearch_other_file_methods\Reasearch_other_file_methods\obj\Debug\Reasearch_other_file_methods.exe.config
