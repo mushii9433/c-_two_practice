@@ -1,0 +1,11 @@
+D:\java code\firstexampleC#\SAVe\SAVe\bin\Debug\SAVe.exe.config
+D:\java code\firstexampleC#\SAVe\SAVe\bin\Debug\SAVe.exe
+D:\java code\firstexampleC#\SAVe\SAVe\bin\Debug\SAVe.pdb
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.csproj.AssemblyReference.cache
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.Form1.resources
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.Properties.Resources.resources
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.csproj.GenerateResource.cache
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.csproj.CoreCompileInputs.cache
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.exe
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.pdb
+D:\java code\firstexampleC#\SAVe\SAVe\obj\Debug\SAVe.exe.config
